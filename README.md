@@ -1,2 +1,3 @@
-# tasky_community
-an app that helps you build your action plan
+# tasky-community
+community version of tasky. tasky is software that helps you create your action plan.
+the suitable python version for this software is Python 3.6.9.
