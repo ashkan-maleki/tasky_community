@@ -1,3 +1,2 @@
 # tasky-community
-community version of tasky. tasky is software that helps you create your action plan.
-the suitable python version for this software is Python 3.6.9.
+This project is the community version of Tasky. Tasky is a piece of software that helps you create your action plan, therefore you can easily set your goals and assign yourself a task. By using Tasky you can keep track of your tasks and their situation. The reason I created this application is to help others organize their plan and to challenge my programming skills. In addition, it makes me increase my knowledge of Python and Django The suitable python version for this software is Python 3.6.9. This project is created by Django and DRF
